@@ -1,4 +1,4 @@
-"colors.styles"
+"colors.styles" 
 {
 	include "custom.styles"
 	colors
@@ -104,13 +104,13 @@
 
 ////////////////////////////////////
 //======Steam Windows Border======//
-		frameBorder="15 15 15 255"
+		frameBorder=none
 		frameBorder_a=frameBorder
 
 
 //////////////////////////////////
 //======Top Bar Background======//
-		Header_Dark="20 20 20 255"
+		Header_Dark="0 22 45 255"
 
 ///////////////////////////////
 //======Top Bar Buttons======//
@@ -259,7 +259,7 @@
 //////////////////////////////////////////////
 //======Divider / List Panel Separator======//
 		Dividers=white12
-		Separators=frameBorder
+		Separators=black45
 
 
 //////////////////////////////
