@@ -65,8 +65,8 @@
 
 /////////////////////////
 //======Scrollbar======//
-		scroll=Focus
-		scroll_a=Focus
+		scroll="27 40 56 255"
+		scroll_a="27 40 56 255"
 
 
 ////////////////////
@@ -110,7 +110,7 @@
 
 //////////////////////////////////
 //======Top Bar Background======//
-		Header_Dark="0 22 45 255"
+		Header_Dark="42 71 94 255"
 
 ///////////////////////////////
 //======Top Bar Buttons======//
@@ -226,10 +226,10 @@
 		titleColumn=White
 		bgTitleColumn=none
 
-		textColumn=White50
-		textColumn_a=White75
-		bgTextColumn=none
-		bgTextColumn_a=White05
+		textColumn=White75
+		textColumn_a=White
+		bgTextColumn=White05
+		bgTextColumn_a=White25
 		tagColumn=White50
 		bgTagColumn=none
 
@@ -244,7 +244,7 @@
 
 //////////////////////////
 //======List Panel======//
-		bgList_a=Focus
+		bgList_a="42 71 94 255"
 		bgHeaderList=white10
 		bgHeaderList_a=bgHeaderList
 
